@@ -4,8 +4,8 @@
       </h1>
 </head>
 <body>
-<p>   This website is going to be all about coding a website. I am making this website for my school passion project and I choose to code a website. So now I'm using my new found knowledge to make this website!
+<p>   This website is going to be all about how to make a chicken fajita. I had to do a lot of digging to find a good recipe and I hope you enjoy!
 </p>
-<img src="https://www.dogulindigital.com.au/wp-content/uploads/2013/08/website-importance-for-business.jpg"/>
-<p>   This took close to an hour of learning to make a website like this.
-</p>
+<img src="http://assets.simplyrecipes.com/wp-content/uploads/2015/04/chicken-fajitas-horiz-b-1200.jpg"/> 
+<h3>First Step:
+</h3>
