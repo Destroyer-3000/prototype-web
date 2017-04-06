@@ -21,6 +21,8 @@
 </p> 
       <h3>Third Step:
       </h3>
-<p>Transfer the chicken and vegetables to a large bowl and serve with the warmed tortillas, lettuce, cheese, salsa, and sour cream. Then enjoy!!!!
+<p>Transfer the chicken and vegetables to a large bowl and serve with the warmed tortillas, lettuce, cheese, salsa, and sour cream. Then enjoy!!!! 
+Below is another way to make chicken fajitas.
 </p>
+<a href="www.tasteofhome.com/recipes/flavorful-chicken-fajitas"/>
 </body>
