@@ -9,3 +9,4 @@
 <img src="http://assets.simplyrecipes.com/wp-content/uploads/2015/04/chicken-fajitas-horiz-b-1200.jpg"/> 
 <h3>First Step:
 </h3>
+In a resealable plastic bag, combine the chile powder with the salt, cumin, onion powder, garlic powder, cornstarch, water and 2 tablespoons of the oil.
