@@ -9,7 +9,7 @@
 <img src="http://assets.simplyrecipes.com/wp-content/uploads/2015/04/chicken-fajitas-horiz-b-1200.jpg"/> 
       <h3>Ingredients:
       </h3>
-<p>1 teaspoon pure chile powder, 1 teaspoon kosher salt, 1/2 teaspoon ground cumin, 1/2 teaspoon onion powder, 1/4 teaspoon garlic powder, 1 tablespoon cornstarch, 1/4 cup water, 3 tablespoons extra-virgin olive oil, 1 whole skinless, boneless chicken breast (about 1 pound), cut into 1/2-inch strips, 1 green bell pepper—cored, seeded and cut into thin strips, 1 medium onion, thinly sliced, 2 tablespoons fresh lime juice, plus lime wedges for serving, 8 flour tortillas, warmed in the microwave, Shredded lettuce, shredded cheddar cheese, salsa and sour cream, for serving
+<p>1 teaspoon pure chile powder, 1 teaspoon kosher salt, 1/2 teaspoon ground cumin, 1/2 teaspoon onion powder, 1/4 teaspoon garlic powder, 1 tablespoon cornstarch, 1/4 cup water, 3 tablespoons extra-virgin olive oil, 1 whole skinless, boneless chicken breast (about 1 pound), cut into 1/2-inch strips, 1 green bell pepper-cored, seeded and cut into thin strips, 1 medium onion-thinly sliced, 2 tablespoons fresh lime juice, plus lime wedges for serving, 8 flour tortillas-warmed in the microwave, shredded lettuce, shredded cheddar cheese, salsa, and sour cream, for serving
 </p>
       <h3>First Step:
       </h3>
